@@ -1,0 +1,10 @@
+{
+  "name": "FreshGlow Organic Skincare",
+  "description": "Explore FreshGlow Organic Skincare with high-resolution 3D WebGL model viewer, immersive AR experience, inventory management, multi-currency payments, shipment tracking, and customer loyalty loop.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
